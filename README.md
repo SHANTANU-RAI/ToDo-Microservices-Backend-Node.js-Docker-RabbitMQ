@@ -7,7 +7,7 @@ Each service — **User**, **Task**, and **Notification** — operates independe
 
 ## 🚀 Architecture Overview
 
-![Application Architecture](images/Todo Architechture.png)
+![Application Architecture](images/architecture.png)
 
 **Components:**
 - **User Service:** Handles user creation and retrieval.
